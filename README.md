@@ -18,10 +18,10 @@ A custom Linux system-monitoring dashboard designed for ASUS ROG laptops, built 
 
 Add screenshots of the application here.
 
-```text
-screenshots/
-└── dashboard.png
-```
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e72ba54c-295a-4fda-b3d2-beec5e14b0a2" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/dfd368af-b8ce-4c88-aa0c-a55300927e5d" />
+
 
 ## Supported Operating Systems
 
