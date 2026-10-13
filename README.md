@@ -99,7 +99,7 @@ Review the prompts before accepting sensor-detection changes.
 Replace the example URL with your GitHub repository URL:
 
 ```bash
-https://github.com/aryxan/ROG_Task_Manager
+git clone https://github.com/aryxan/ROG_Task_Manager
 cd ROG_Task_Manager
 ```
 
